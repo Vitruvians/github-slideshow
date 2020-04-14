@@ -2,5 +2,5 @@
 layout: slide
 title: "Titelpagina"
 ---
-Your text
+Vitruvians
 Use the left arrow to go back!
